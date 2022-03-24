@@ -18,4 +18,4 @@ senses: darkvision 30ft., passive Perfecption 14
 languages: understands one language but can't speak
 cr: 1/2
 ```
-This peculiar critter is the smallest, yet most intelligent representative of the highly poisonous wurm genus. With its remarkable ability to perfectly imitate a piece of paper, it secretly roams wherever books are present - from the dust-ridden library of an ancient civilization to the buzzing
+This peculiar critter is the smallest, yet most intelligent representative of the highly poisonous wurm genus. With its remarkable ability to perfectly imitate a piece of paper, it secretly roams wherever books are present - from the dust-ridden library of an ancient civilization to the buzzing book shop selling heavy tombs and fantastic scrolls. Being able to remain motionless over extended periods of time,
