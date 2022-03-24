@@ -1,6 +1,5 @@
 [
   "obsidian-admonition",
-  "buttons",
   "obsidian-dice-roller",
   "fantasy-calendar",
   "generic-initiative-tracker",
@@ -15,5 +14,6 @@
   "obsidian-timelines",
   "obsidian-tracker",
   "obsidian-5e-statblocks",
-  "various-complements"
+  "various-complements",
+  "buttons"
 ]
