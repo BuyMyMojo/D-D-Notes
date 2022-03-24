@@ -4,5 +4,6 @@
   "defaultViewMode": "preview",
   "foldIndent": true,
   "spellcheck": true,
-  "promptDelete": false
+  "promptDelete": false,
+  "showLineNumber": true
 }

@@ -1,11 +1,54 @@
 {
-  "monsters": [],
+  "monsters": [
+    [
+      "Book Wurm",
+      {
+        "image": "Book Wurm.jpg",
+        "name": "Book Wurm",
+        "size": "Tiny",
+        "type": "monstrosity",
+        "alignment": "unaligned",
+        "ac": 14,
+        "hp": 7,
+        "hit_dice": "3d4",
+        "speed": "10 fp., fly 5 ft/",
+        "stats": [
+          1,
+          18,
+          10,
+          5,
+          18,
+          4
+        ],
+        "saves": [
+          {
+            "Perception": 6
+          },
+          {
+            "Stealth": 6
+          }
+        ],
+        "damage_resistances": "poison",
+        "condition_immunities": "poisoned",
+        "senses": "darkvision 30ft., passive Perfecption 14",
+        "languages": "understands one language but can't speak",
+        "cr": "1/2",
+        "traits": [],
+        "actions": [],
+        "bonus_actions": [],
+        "reactions": [],
+        "legendary_actions": [],
+        "source": "Homebrew",
+        "layout": "Basic 5e Layout"
+      }
+    ]
+  ],
   "layouts": [],
   "default": "Basic 5e Layout",
   "useDice": true,
-  "renderDice": false,
+  "renderDice": true,
   "export": true,
-  "showAdvanced": false,
+  "showAdvanced": true,
   "version": {
     "major": 2,
     "minor": 14,
