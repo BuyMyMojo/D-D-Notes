@@ -14,25 +14,8 @@ saves:
   - Stealth: +6
 damage_resistances: poison
 condition_immunities: poisoned
-senses: darkvision 30ft.
-languages: string
-cr: number
-spells:
-  - <description>
-  - <spell level>: <spell-list>
-traits:
-  - [<trait-name>, <trait-description>]
-  - ...
-actions:
-  - [<trait-name>, <trait-description>]
-  - ...
-legendary_actions:
-  - [<legendary_actions-name>, <legendary_actions-description>]
-  - ...
-bonus_actions:
-  - [<trait-name>, <trait-description>]
-  - ... 
-reactions:
-  - [<reaction-name>, <reaction-description>]
-  - ...
+senses: darkvision 30ft., passive Perfecption 14
+languages: understands one language but can't speak
+cr: 1/2
 ```
+This peculiar critter is the smallest, yet most intelligent representative of the highly poisonous wurm genus. W
