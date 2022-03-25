@@ -7,8 +7,12 @@
         "id": "d63f726e96375858",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Creatures/Book Wurm.md",
+            "mode": "preview",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Creatures/Book Wurm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -81,6 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Creatures/Book Wurm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -102,7 +108,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Creatures/Book Wurm.md"
+              }
             }
           },
           {
@@ -138,8 +146,8 @@
   },
   "active": "d63f726e96375858",
   "lastOpenFiles": [
-    "the magic school campaign.md",
     "Creatures/Book Wurm.md",
+    "the magic school campaign.md",
     "README.md"
   ]
 }
