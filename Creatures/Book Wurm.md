@@ -26,7 +26,7 @@ This peculiar critter is the smallest, yet most intelligent representative of th
 ```ad-note
 icon: scroll-unfurled
 
-This could be used in [[Strixhaven]] (Put name here later!)
+This could be used in [[Strixhaven]]
 ```
 
 <sub>This is the first of my notes typed with all my fingers! It 100% is slower at the moment but I am getting there, I can already feel an improvement from my practice yesterday. Good luck to me.</sub>
