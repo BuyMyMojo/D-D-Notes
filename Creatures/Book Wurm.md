@@ -24,7 +24,7 @@ This peculiar critter is the smallest, yet most intelligent representative of th
 **Living Scripts.** Book Wurms can live up to several centuries. The oldest ones are often covered in countless hieroglyphs, potentially bearing the knowledge from long-forgotten times.
 
 > [!note]
-> This could be used in the magic school campaign (Put name here later!)
+> This could be used in [[the magic school campaign]] (Put name here later!)
 
 <sub>This is the first of my notes typed with all my fingers! It 100% is slower at the moment but I am getting there, I can already feel an improvement from my practice yesterday. Good luck to me.</sub>
 
