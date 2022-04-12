@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "d63f726e96375858",
+        "id": "5594669dd4ee64e8",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Creatures/Book Wurm.md",
-            "mode": "preview",
+            "file": "Places/Strixhaven.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Creatures/Book Wurm.md",
+                "file": "Places/Strixhaven.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Creatures/Book Wurm.md",
+                "file": "Places/Strixhaven.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Creatures/Book Wurm.md"
+                "file": "Places/Strixhaven.md"
               }
             }
           },
@@ -144,8 +144,10 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "d63f726e96375858",
+  "active": "5594669dd4ee64e8",
   "lastOpenFiles": [
+    "Places/Strixhaven.md",
+    "Places.md",
     "Creatures/Book Wurm.md",
     "the magic school campaign.md",
     "README.md"
